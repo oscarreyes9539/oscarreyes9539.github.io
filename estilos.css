@@ -9,3 +9,15 @@ h1 {
     color: blueviolet;
     font-size: 60px;
 }
+body {
+    background-image: url("../css/sostenibilidad-ambiental.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.contenedor1{
+    width: 600px;
+    height: 400px;
+    margin: 50px;
+    padding: 10px;
+    border: 1px double green;
+}
